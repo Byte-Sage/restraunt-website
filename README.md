@@ -37,7 +37,7 @@ https://chopeseats-iota.vercel.app/
 * [Nodemailer](https://nodemailer.com/)
 
 ### PaaS
-* [Vercel]([https://render.com/](https://vercel.com/))
+* [Vercel](https://vercel.com/)
 
 ## Key Challenges/takeaways
 
