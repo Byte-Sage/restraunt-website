@@ -46,7 +46,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
             <Route path="/signup" element={<SignUpPage />} />
 
             {/* Account */}
-            <Route path="/account" element={<Account />} />
+            {/* <Route path="/account" element={<Account />} /> */}
             <Route path="/account/edit" element={<EditAccount />} />
             <Route path="/account/bookings" element={<BookingList />} />
 

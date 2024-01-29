@@ -172,7 +172,7 @@ export const Header = ({ user, setUser }) => {
                     </Menu.Item>
                   </>
                 )}
-                <Menu.Item
+                {/* <Menu.Item
                   component={Link}
                   to="/account"
                   leftSection={
@@ -183,7 +183,7 @@ export const Header = ({ user, setUser }) => {
                   }
                 >
                   Account settings
-                </Menu.Item>
+                </Menu.Item> */}
 
                 <Menu.Item
                   leftSection={
