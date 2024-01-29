@@ -7,6 +7,7 @@ Developers:
 * [@natsumi-h](https://github.com/natsumi-h)
 
 ## Live URL
+https://chopeseats-iota.vercel.app/
 
 ## Screenshots
 
